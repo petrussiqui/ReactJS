@@ -5,11 +5,11 @@ import * as CusConst from '../settings/constants';
 
 
 const pages = [
-    { pageLink: '/petrus-app/', pageName: 'Home' },
-    { pageLink: '/petrus-app/about-me', pageName: 'About Me' },
-    { pageLink: '/petrus-app/porfolio/', pageName: 'Porfolio' },
-    { pageLink: '/petrus-app/calligraphy/', pageName: 'Calligraphy' },
-    { pageLink: '/petrus-app/contact/', pageName: 'Contact' },
+    { pageLink: '/', pageName: 'Home' },
+    { pageLink: '/about-me', pageName: 'About Me' },
+    { pageLink: '/porfolio/', pageName: 'Porfolio' },
+    { pageLink: '/calligraphy/', pageName: 'Calligraphy' },
+    { pageLink: '/contact/', pageName: 'Contact' },
 ];
 const CusNavLink = styled(NavLink)(() => ({
     padding: '10px',
