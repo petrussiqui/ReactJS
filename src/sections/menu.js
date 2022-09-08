@@ -8,7 +8,7 @@ const pages = [
     { pageLink: '/', pageName: 'Home' },
     { pageLink: '/about-me', pageName: 'About Me' },
     { pageLink: '/porfolio/', pageName: 'Porfolio' },
-    { pageLink: '/calligraphy/', pageName: 'Calligraphy' },
+    { pageLink: '/thuphappetrus/', pageName: 'Calligraphy' },
     { pageLink: '/contact/', pageName: 'Contact' },
 ];
 const CusNavLink = styled(NavLink)(() => ({
