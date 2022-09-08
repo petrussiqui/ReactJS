@@ -21,7 +21,7 @@ export default function Router() {
     },
     { path: '/about-me', element: <About /> },
     { path: '/porfolio', element: <Porfolio /> },
-    { path: '/calligraphy', element: <Calligraphy /> },
+    { path: '/thuphappetrus', element: <Calligraphy /> },
     { path: '/contact', element: <Contact /> },
     { path: '/404', element: <Page404 /> },
     { path: '/*', element: <Navigate to="/404" replace /> },
