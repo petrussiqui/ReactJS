@@ -12,8 +12,8 @@ function Ex8() {
     return (
         <div className="MUISession">
             <TextField id="outlined-basic" label="Outlined" variant="outlined" />
-<TextField id="filled-basic" label="Filled" variant="filled" />
-<TextField id="standard-basic" label="Standard" variant="standard" />
+            <TextField id="filled-basic" label="Filled" variant="filled" />
+            <TextField id="standard-basic" label="Standard" variant="standard" />
             <Slider
                 aria-label="Temperature"
                 defaultValue={30}
